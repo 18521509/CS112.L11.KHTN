@@ -1,0 +1,26 @@
+CS112.L21.KHTN
+
+#10/09/2020:
+- Tìm hiểu và phân tích các vấn đề trong Computional Thinking:
+	+ Abstract
+	+ Decomposition
+	+ Pattern recognition
+	+ Algorithms
+- Phân tích và thực hiện hóa bài toán tìm dãy con có tổng lớn nhất trong mảng n phần tử
+- Giải đáp thắc mắc về các vấn đề liên quan đến trong và ngoài môn học:
+	+ Môn này dễ không?
+	+ Seminar thì bao giờ bắt đầu?
+	+ Môn này sẽ giúp ích gì cho công việc nghiên cứu, công việc sau này?
+	
+
+*Englist-Version:
+- Discovering and analysing problems in Computational Thinking
+	+ Abstract
+	+ Decomposition
+	+ Pattern recognition
+	+ Algorithms
+- Analysis and implement the specific problems: find the subarray has the largest sum in n elements array
+- Question and Answer:
+	+ Is this subject easy?
+	+ When do seminars begin?
+	+ What are advantages of this subject for researching, career?
