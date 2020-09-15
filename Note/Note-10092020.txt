@@ -11,6 +11,11 @@ CS112.L21.KHTN
 	+ Môn này dễ không?
 	+ Seminar thì bao giờ bắt đầu?
 	+ Môn này sẽ giúp ích gì cho công việc nghiên cứu, công việc sau này?
+- Giảng viên phổ biến về môn học: 
+	+ Các cột điểm, chấm điểm
+	+ Về các buổi thực hành hình thức 2.
+	+ Làm các problems trên codeforces.
+	
 	
 
 *Englist-Version:
