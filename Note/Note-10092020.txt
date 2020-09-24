@@ -18,7 +18,7 @@ CS112.L21.KHTN
 	
 	
 
-*Englist-Version:
+*English-Version:
 - Discovering and analysing problems in Computational Thinking
 	+ Abstract
 	+ Decomposition
