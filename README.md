@@ -6,8 +6,6 @@ Danh sách thành viên:
   2. Nguyễn Lâm Quỳnh - 18521326
   3. Nguyễn Trần Trung - 18521555
 
-## [Codeforces practice](Codeforces)
-
 ## Lecture Note:
 
    - [Week 1](Note/Week1)
@@ -32,3 +30,5 @@ Danh sách thành viên:
   ### Week 4:
    - [renew (Đổi mới)](Week4/W4E1_N003.ipynb)
    - [recontructing (Tái cấu trúc)](Week4/W4E2_N003_Tai_Cau_Truc.ipynb)
+
+## [Codeforces practice](Codeforces)
