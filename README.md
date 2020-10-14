@@ -8,7 +8,7 @@ Danh sách thành viên:
 
 ## Lecture Note:
 
-   - [Week 1](Note/Week1)
+   $/qquad$ - [Week 1](Note/Week1)
    - [Week 2](Note/Week2)
    - [Week 3](Note/Week3)
    - [Week 4](Note/Week4)
