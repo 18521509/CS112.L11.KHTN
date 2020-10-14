@@ -7,8 +7,7 @@ Danh sách thành viên:
   3. Nguyễn Trần Trung - 18521555
 
 ## Lecture Note:
-
-   $/qquad$ - [Week 1](Note/Week1)
+   - [Week 1](Note/Week1)
    - [Week 2](Note/Week2)
    - [Week 3](Note/Week3)
    - [Week 4](Note/Week4)
