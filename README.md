@@ -37,7 +37,7 @@ Danh sách thành viên:
    
   ### Week 6:
    - [Mức độ giống nhau](Week6/W6E1_N003.ipynb)
-   - [Địa lan]()
+   - [Địa lan](Week6/W6E3_N003_Dia_Lan.ipynb)
    
   ### WarmUp:
    
