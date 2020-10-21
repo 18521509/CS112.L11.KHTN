@@ -29,5 +29,14 @@ Danh sách thành viên:
   ### Week 4:
    - [renew (Đổi mới)](Week4/W4E1_N003.ipynb)
    - [recontructing (Tái cấu trúc)](Week4/W4E2_N003_Tai_Cau_Truc.ipynb)
-
+  
+  ### Week 5:
+   - [Khóa số](Week5/W5E1_N003_Khoa_so.ipynb)
+   
+  ### Week 6:
+   - [Mức độ giống nhau](Week6/W6E1_N003.ipynb)
+   - [Địa lan]()
+   
+  ### WarmUp:
+   
   ### [Codeforces practice](Codeforces)
