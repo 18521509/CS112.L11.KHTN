@@ -13,6 +13,9 @@ Danh sách thành viên:
   - [Week 4](Note/Week4)
   - [Week 5](Note/Week5)
   - [Week 6](Note/Week6)
+  - [Week 7](Note/Week7)
+  - [Week 8](Note/Week8)
+  
 
 ## Problem
   
