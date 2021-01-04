@@ -15,6 +15,8 @@ Danh sách thành viên:
   - [Week 6](Note/Week6)
   - [Week 7](Note/Week7)
   - [Week 8](Note/Week8)
+  - [Week 9](Note/Week9)
+  - [Week 10](Note/Week10)
   
 
 ## Problem
@@ -49,6 +51,14 @@ Danh sách thành viên:
   ### Week 8:
    - [Phân số](Week8/W8E1_N003_PhanSo.ipynb)
    - [Xâu con tương đương](Week8/W8E2_N003_Xau_con_tuong_duong.ipynb)
+   
+  ### Week 9:
+   - [Số Nguyên Mới](Week9/W9P1_SoNguyenMoi.ipynb)
+   - [Con đường gốm sứ](Week9/W9P2_ConDuongGomSu.ipynb)
+   
+  ### Week 10:
+   - [Phần Thưởng](Week10/W10P1_PhanThuong.ipynb)
+   - [Đèn Led](Week10/W10P2_DenLed.ipynb)
    
   ### WarmUp:
    
