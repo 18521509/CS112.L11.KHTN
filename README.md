@@ -39,6 +39,14 @@ Danh sách thành viên:
    - [Mức độ giống nhau](Week6/W6E1_N003.ipynb)
    - [Địa lan](Week6/W6E3_N003_Dia_Lan.ipynb)
    
+  ### Week 7:
+   - [unknown]()
+   - [unknown]()
+   
+  ### Week 8:
+   - [Phân số](Week8/W8E1_N003_PhanSo.ipynb)
+   - [Xâu con tương đương](Week8/W8E2_N003_Xau_con_tuong_duong.ipynb)
+   
   ### WarmUp:
    
   ### [Codeforces practice](Codeforces)
